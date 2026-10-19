@@ -6,3 +6,4 @@ Repositório de teste do módulo Equipe do Ritmo. Nada aqui vai para produção.
 
 - `add(a, b)`: soma.
 - `subtract(a, b)`: subtração.
+- `divide(a, b)`: divisão.
